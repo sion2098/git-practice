@@ -1,0 +1,17 @@
+total 56
+drwxr-x--- 6 sioning sioning 4096 Jan  5 13:27 .
+drwxr-xr-x 3 root    root    4096 Jan  5 10:22 ..
+-rw-r--r-- 1 sioning sioning  220 Jan  5 10:22 .bash_logout
+-rw-r--r-- 1 sioning sioning 3771 Jan  5 10:22 .bashrc
+drwx------ 3 sioning sioning 4096 Jan  5 10:45 .cache
+drwxr-xr-x 3 sioning sioning 4096 Jan  5 10:45 .dotnet
+-rw-rw-r-- 1 sioning sioning    0 Jan  5 10:23 .motd_shown
+-rw-r--r-- 1 sioning sioning  807 Jan  5 10:22 .profile
+drwxr-xr-x 5 sioning sioning 4096 Jan  5 10:45 .vscode-server
+-rw-r--r-- 1 sioning sioning  247 Jan  5 12:57 bye
+-rw-r--r-- 1 sioning sioning   84 Jan  5 13:06 gugudan.py
+-rw-r--r-- 1 sioning sioning   74 Jan  5 13:04 hello
+-rw-r--r-- 1 sioning sioning   10 Jan  5 13:05 hello.py
+-rw-r--r-- 1 sioning sioning    0 Jan  5 13:27 output.log
+-rw-r--r-- 1 sioning sioning  868 Jan  5 13:08 output.txt
+drwxr-xr-x 4 sioning sioning 4096 Jan  5 12:54 src

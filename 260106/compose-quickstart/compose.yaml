@@ -1,0 +1,12 @@
+services:
+  # 웹 애플리케이션 서비스
+  web:
+    build: .                    # 현재 디렉토리의 Dockerfile로 빌드
+    ports:
+      - "8000:5000"             # 호스트 8000 → 컨테이너 5000
+    volumes:
+      - .:/code                 # 소스 코드 실시간 반영 (개발 편의)
+
+  # Redis 데이터베이스 서비스
+  redis:
+    image: redis:alpine         # 공식 Redis 이미지 사용
